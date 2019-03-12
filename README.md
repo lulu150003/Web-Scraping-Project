@@ -6,3 +6,5 @@ LinkedIn is an American company established in 2002. They created a platform for
 I wrote two python scripts, namely "LinkedInWebcrawler2019.py" and "ProfileCrawler2019.py" to responsibly scrape the LinkedIn website. I sent queries about Data Scientist/Data Engineer/Data Analyst jobs type roles within the company Uber. Used the selenium package and collected information about the Uber employees. "LinkedIncrawler2019.py" is code in which it gathers first csv file of profiles. "ProfileCrawler2019.py" is code in which it gathers information from each profile link. 
 
 I ran my analysis on about 1,000 employee profiles. The analysis code is in the Jypyter python notebook "profileScraper.ipynb". 
+
+Here is a blog post I wrote about the project and results: http://nycdatascience.com/blog/student-works/web-scraping/web-scraping-linkedin:-exploring-the-background-of-a-data-scientist/
